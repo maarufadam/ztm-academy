@@ -1,0 +1,9 @@
+[submodule "smart-brain-api"]
+	path = smart-brain-api
+	url = https://github.com/maarufadam/smart-brain-api.git
+[submodule "robofriends"]
+	path = robofriends
+	url = https://github.com/maarufadam/robofriends.git
+[submodule "smart-brain"]
+	path = smart-brain
+	url = https://github.com/maarufadam/smart-brain.git
